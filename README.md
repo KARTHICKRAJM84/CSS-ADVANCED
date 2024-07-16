@@ -1,5 +1,8 @@
 # CSS-ADVANCED
+## home.html
 ```
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -156,3 +159,6 @@
 </body>
 </html>
 ```
+## output
+![image](https://github.com/user-attachments/assets/ea79b594-9ba5-4b1a-927a-436ea8da4762)
+
